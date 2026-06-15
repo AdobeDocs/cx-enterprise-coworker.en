@@ -1,7 +1,7 @@
 ---
 user-guide-title: Smoke Guide
 breadcrumb-title: Smoke Breadrumb Title
-user-guide-description: This guide is used for internal test to make sure that the publishing process is working properly.
+user-guide-description: This guide is used for internal test to make sure that the publishing process is working properly. June 15, 2026
 ---
 
 # Smoke guide {#using}
