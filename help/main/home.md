@@ -6,7 +6,7 @@ description: Learn how to take your marketing to the next level with Adobe CX En
 
 BANNER OR LOGO?
 
-INTRO TEXT.
+INTRO TEXT GOES HERE
 
 ## Get started
 
