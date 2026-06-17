@@ -6,7 +6,7 @@ user-guide-description: Explore Adobe CX Enterprise Coworker
 
 # Adobe CX Enterprise Coworker Guide {#content}
  
-+ [Adobe CX Enterprise Coworker](overview.md)
++ [Adobe CX Enterprise Coworker](/help/main/home.md)
 + Campaigns {#campaigns}
   + [Overview](/help/campaigns/overview.md)
   + [Create an email campaign](/help/campaigns/create-an-email-campaign.md)
