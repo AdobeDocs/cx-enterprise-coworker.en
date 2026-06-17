@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: CX Coworker
+solution: Experience Cloud
 type: Documentation
 mini-toc-levels: 2
 usetq: true
