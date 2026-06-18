@@ -6,6 +6,8 @@ title: Adobe CX Enterprise Coworker Overview
 
 Adobe CX Enterprise Coworker Campaigns is an AI-native marketing application that takes you from a single prompt to a complete review-ready campaign.
 
+At this time, all interactions with the AI will direct you towards [campaign generation](/help/campaigns/create-an-email-campaign.md). More functionality is coming soon. 
+
 ## How to access
 
 >[!NOTE]
@@ -14,7 +16,7 @@ Adobe CX Enterprise Coworker Campaigns is an AI-native marketing application tha
 
 1. Go to coworker-campaigns.experience.adobe.com.
 
-1. Sign in or create an account using your business email.
+1. If you have an existing Adobe account, click **Sign in**. If you do not, click **Join the free trial** and create an account using your business email.
 
    Existing Adobe customers are auto-approved and routed straight to the trial environment to accept the terms.
 
@@ -86,13 +88,16 @@ A few things early users have found that make a real difference:
 - **Send a proof email**. Before you launch, send a proof and review it in your own inbox.
 - **Iterate, do not restart**. Treat the Coworker Campaigns first output as a starting point. The fastest path to great is a few rounds of refinement, not a fresh prompt.
 - **Export when you need a paper trail**. Export individual emails as HTML or the full campaign as a Word doc or PDF for team review.
+- **The escape key**. Press the escape key any time you are in a Campaigns Coworker editor or dialogue (campaigns, journey, etc.) to quickly exit.
 
-## What is available in the trial
+## What to know about the trial
 
 Coworker Campaigns is a product in active development. Here is what to know going in:
 
 - **Trial window**: Now through October 1, 2026.
 - **Acceptance required**: You will need to review and accept the trial terms before accessing the product.
+- **Region**: The free trial is only available to users in North America at this time.
+- **Audiences**: Audiences are uploaded via CSV. All audiences are specific to their respective campaigns (they are not stored anywhere else in your environment at this time).
 - **Data guidance**: Do not upload sensitive or regulated data. Coworker Campaigns is not currently intended for HIPAA-regulated industries.
 - **Compliance**: You are responsible for following email regulations (unsubscribe links, privacy policies, etc.).
 - **Send limit**: (_Coming soon_) When Launch is available, you can send up to 5,000 emails per month.

@@ -115,6 +115,10 @@ You can also use the AI buttons to help refine your Subject or Preheader.
 
    ![](assets/create-an-email-campaign-5.png)
 
+>[!TIP]
+>
+>Press the escape key any time you are in a Campaigns Coworker editor or dialogue (campaigns, journey, etc.) to quickly exit.
+
 ## Step 5: Send a test email
 
 Before launching, send the campaign to yourself so you can review it in a real inbox. Use this option to ensure the email is rendering the way you want, the links are working, any personalization is accurate, etc.
