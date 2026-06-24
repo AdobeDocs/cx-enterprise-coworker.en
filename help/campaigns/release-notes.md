@@ -209,7 +209,6 @@ Adobe CX Enterprise Coworker Campaigns releases operate on a continuous delivery
 * The interest form for CX Coworker and Vibe Marketing now asks for your company and goals upfront
 * A "Beta" label marks preview features in the navigation so you know what is new
 * Email variant thumbnails are cleaner and easier to compare side by side
-* Various performance and reliability improvements throughout
 * Browse, open, and edit skills from a dedicated Skills area in the app
 * Targeted audience cards support multiple segments with clearer live previews
 * Campaign plan cards keep PDF previews working when plans update
