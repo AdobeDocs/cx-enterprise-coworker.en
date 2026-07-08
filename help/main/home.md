@@ -2,7 +2,7 @@
 title: Adobe CX Enterprise Coworker
 description: Learn how to take your marketing to the next level with Adobe CX Enterprise Coworker.
 ---
-# Adobe CX Enterprise Coworker help content
+# Adobe CX Enterprise Coworker
 
 Adobe CX Enterprise Coworker is an AI-powered teammate that reimagines the nature of work for organizations, teams, and individuals. Coworker elegantly automates customer experience and marketing workflows so organizations can focus on realizing their business goals and transforming outcomes, not coordinating tasks. As an agentic engine, Coworker takes a new innovative approach to automating business process. It elevates AI model performance and accuracy by bringing together data, intelligence, collaboration and agentic skills execution with enterprise context, governance, and human oversight built in.
 
