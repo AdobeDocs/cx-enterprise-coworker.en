@@ -6,7 +6,7 @@ title: Adobe CX Enterprise Coworker Overview
 
 Adobe CX Enterprise Coworker Campaigns is an AI-native marketing application that takes you from a single prompt to a complete review-ready campaign.
 
-At this time, all interactions with the AI will direct you towards [campaign generation](/help/campaigns/create-an-email-campaign.md). More functionality is coming soon. 
+At this time, all interactions with the AI will direct you towards [campaign generation](/help/campaigns/create-an-email-campaign.md). More functionality is coming soon.
 
 ## How to access
 
@@ -101,5 +101,10 @@ Coworker Campaigns is a product in active development. Here is what to know goin
 - **Data guidance**: Do not upload sensitive or regulated data. Coworker Campaigns is not currently intended for HIPAA-regulated industries.
 - **Compliance**: You are responsible for following email regulations (unsubscribe links, privacy policies, etc.).
 - **Send limit**: (_Coming soon_) When Launch is available, you can send up to 5,000 emails per month.
+
+## Video overview
+
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
+
 
 New capabilities will ship during the trial. Your feedback helps shape what comes next. Submit feedback via the in-product feedback icon in the header.
