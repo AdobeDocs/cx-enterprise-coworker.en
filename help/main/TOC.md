@@ -12,3 +12,5 @@ user-guide-description: Explore Adobe CX Enterprise Coworker
   + [Create an email campaign](/help/campaigns/create-an-email-campaign.md)
   + [Use cases](/help/campaigns/use-cases.md)
   + [Release notes](/help/campaigns/release-notes.md)
++ Chat {#chat}
+  + [Overview](/help/chat/overview.md)
