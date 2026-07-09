@@ -23,3 +23,4 @@ Coworker Chat enables teams to automate Adobe product tasks through natural lang
 ## Projects (docs coming soon)
 
 Coworker Projects is a unified workspace for automating end-to-end customer experience orchestration workflows, helping teams coordinate tasks, approvals, and execution to drive outcomes from strategy through delivery.
+
