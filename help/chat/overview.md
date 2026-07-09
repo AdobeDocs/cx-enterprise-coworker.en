@@ -22,7 +22,7 @@ If you have used AI Assistant and Adobe Experience Platform Agent Orchestrator, 
 
 ## The chat experience
 
-* **Rich, in-conversation results:** Charts, tables, and interactive artifacts render inline, right where you are working. You can upload an image for Coworker to use, and preview PDFs in the conversation, with no jumping between tools.
+* **Rich, in-conversation results:** Charts, tables, and interactive artifacts render inline, right where you are working. You can upload an image for Coworker to use, and preview PDFs in the conversation, with no switching between tools.
 * **It shows its work:** As Coworker Chat takes on a task, you can watch it reason and progress (loading the right skill, checking your data model, running a compliance check, looking for overlaps), so you always know what it is doing and why.
 * **Long, complex sessions:** Coworker Chat sustains extended, multi-step sessions and holds context across them, so you can work a problem from start to finish in one place.
 * **Suggested and follow-up prompts:** Coworker Chat proposes next steps, so you do not have to guess what to ask.
