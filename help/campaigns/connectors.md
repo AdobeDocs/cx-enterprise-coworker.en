@@ -11,7 +11,7 @@ Adobe CX Enterprise Coworker Campaigns allows you to connect your Marketo Engage
 >
 >More connectors are coming soon.
 
-1. On the [Campaign Coworker homepage](coworker-campaigns.experience.adobe.com.), click **Customize** and select **Connectors**.
+1. On the [Campaign Coworker homepage](coworker-campaigns.experience.adobe.com), click **Customize** and select **Connectors**.
 
 SCREENSHOT
 
