@@ -9,11 +9,11 @@ INTRO TEXT
 
 ## Use the CO-STAR framework {#costar-framework}
 
-For best results with AI Assistant, organize your prompts using the CO-STAR framework. This structured approach ensures AI understands exactly what you need.
+For best results, organize your prompts using the CO-STAR framework. This structured approach ensures the AI understands exactly what you need.
 
 | Component | What it means | Why it matters |
 |-|-|-|
-| **C - Context** | Background about your campaign, product, or situation | Helps AI understand the bigger picture |
+| **C - Context** | Background about your campaign, product, or situation | Helps the AI understand the bigger picture |
 | **O - Objective** | Your specific marketing goal | Drives what the content should achieve |
 | **S - Style** | How you want to communicate | Sets the approach |
 | **T - Tone** | Emotional style and voice | Shapes how your message feels |
@@ -141,7 +141,8 @@ When crafting marketing objectives, make sure they are clear, actionable, and me
 
 ### Structure your objective
 
-Always provide context and the value proposition so AI can generate relevant content.
+Always provide context and the value proposition so the AI can generate relevant content.
+
 Use this formula to help you write effective objectives: **Action + Product/Service + Value/Benefit + Urgency/Context**
 
 **Examples of good objectives:**
@@ -150,7 +151,7 @@ Use this formula to help you write effective objectives: **Action + Product/Serv
 
 &check; "Promote registration for our exclusive workshop on advanced data visualization techniques for marketing professionals"
 
-&check; "Drive attendance to our product launch event showcasing the revolutionary AI writing assistant that saves 5+ hours per week"
+&check; "Drive attendance to our product launch event showcasing the writing assistant that saves 5+ hours per week"
 
 **Examples to avoid:**
 

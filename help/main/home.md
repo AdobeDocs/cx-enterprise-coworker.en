@@ -19,6 +19,7 @@ Coworker Campaigns is a templatized feature for small agile teams to stand up an
 Coworker Chat enables teams to automate Adobe product tasks through natural language, quickly turning ideas into actions with flexible planning, customizable skills, and intelligent execution.
 
 * [Overview](/help/chat/overview.md)
+* [Use cases](/help/chat/use-cases.md)
 
 ## Projects (docs coming soon)
 
