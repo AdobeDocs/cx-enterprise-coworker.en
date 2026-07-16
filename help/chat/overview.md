@@ -42,3 +42,7 @@ Coworker Chat is powered by the Coworker building blocks. The following building
 * **MCP connectors:** governed access to act across Adobe and third-party systems, with out-of-the-box connectors and the option to bring your own.
 * **Governance:** approval gates, permissions inherited from your Adobe organization, checks that run before an action executes, and a full audit trail.
 * **Memory:** Coworker Chat learns your preferences, decisions, and corrections across sessions, scoped from organization-wide rules down to your personal preferences, so it gets sharper the more you work with it.
+
+## Video overview
+
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
