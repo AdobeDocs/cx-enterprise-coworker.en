@@ -1,11 +1,11 @@
 ---
-description: Description goes here.
+description: Learn best practices for prompting Coworker Campaigns, including the CO-STAR framework, prompt do's and don'ts, and writing effective marketing objectives.
 title: Best practices
 hide: true
 ---
 # Best practices {#best-practices}
 
-INTRO TEXT
+Getting the most out of Coworker Campaigns starts with how you prompt. Learn the practices that produce the best results: the CO-STAR framework for structuring your prompts, what to include and what to avoid, and how to write marketing objectives that give the AI the context it needs to generate relevant, on-target content.
 
 ## Use the CO-STAR framework {#costar-framework}
 
