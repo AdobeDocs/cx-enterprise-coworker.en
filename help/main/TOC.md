@@ -16,3 +16,4 @@ user-guide-description: Explore Adobe CX Enterprise Coworker
   + [Release notes](/help/campaigns/release-notes.md)
 + Chat {#chat}
   + [Overview](/help/chat/overview.md)
+  + [Use cases](/help/chat/use-cases.md)
