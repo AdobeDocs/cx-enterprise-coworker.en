@@ -20,6 +20,7 @@ Coworker Chat enables teams to automate Adobe product tasks through natural lang
 
 * [Overview](/help/chat/overview.md)
 * [Use cases](/help/chat/use-cases.md)
+* [UI guide](/help/chat/ui-guide.md)
 
 ## Projects (docs coming soon)
 
