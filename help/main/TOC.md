@@ -2,7 +2,6 @@
 user-guide-title: Adobe CX Enterprise Coworker
 breadcrumb-title: Adobe CX Enterprise Coworker
 user-guide-description: Explore Adobe CX Enterprise Coworker
-blake: handsome
 ---
 
 # Adobe CX Enterprise Coworker Guide {#content}
@@ -17,5 +16,5 @@ blake: handsome
   + [Release notes](/help/campaigns/release-notes.md)
 + Chat {#chat}
   + [Overview](/help/chat/overview.md)
-  + [Use cases](/help/chat/use-cases.md)
   + [UI guide](/help/chat/ui-guide.md)
+  + [Use cases](/help/chat/use-cases.md)
