@@ -2,7 +2,7 @@
 description: A reference guide to the Coworker Chat interface, covering navigation, the input box, responses, chat history, and configuring Skills, MCP servers, and Memory.
 title: UI Guide
 ---
-# UI Guide {#ui-guide}
+# UI guide {#ui-guide}
 
 Get oriented with the Coworker Chat interface. This guide covers everything from accessing the app and navigating the workspace to getting the most out of conversations, managing your history, and tailoring your setup.
 
