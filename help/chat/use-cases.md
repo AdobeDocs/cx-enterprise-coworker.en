@@ -2,7 +2,7 @@
 description: Browse Coworker Chat use cases and sample prompts, organized by area across data insights, audiences, experimentation, journeys, and platform operations.
 title: Use Cases
 ---
-# Use Cases {#use-cases}
+# Use cases {#use-cases}
 
 Below are use cases and sample prompts that practitioners are using in Adobe CX Enterprise Coworker Chat, organized by work area. Each prompt is built to be copied, adapted with your own data and context, and refined through conversation.
 

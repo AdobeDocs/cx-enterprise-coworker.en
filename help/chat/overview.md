@@ -2,7 +2,7 @@
 description: Learn how Coworker Chat uses a conversational interface to plan, execute, and complete customer experience work across Adobe and connected systems in minutes.
 title: Adobe CX Enterprise Coworker Chat Overview
 ---
-# Adobe CX Enterprise Coworker Chat Overview {#overview}
+# Adobe CX Enterprise Coworker Chat overview {#overview}
 
 Coworker Chat is a conversational interface for getting customer experience work done. You describe a goal in plain language (e.g., "build an audience for the spring yoga promotion," or, "tell me why this audience shrank last week") and Coworker Chat plans the work, executes it across your Adobe and connected systems, validates the results, and brings the finished work back to you for approval.
 
