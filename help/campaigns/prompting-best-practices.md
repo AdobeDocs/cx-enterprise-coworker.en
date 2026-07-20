@@ -1,9 +1,8 @@
 ---
 description: Learn best practices for prompting Coworker Campaigns, including the CO-STAR framework, prompt do's and don'ts, and writing effective marketing objectives.
-title: Best practices
-hide: true
+title: Prompting best practices
 ---
-# Best practices {#best-practices}
+# Prompting best practices {#best-practices}
 
 Getting the most out of Coworker Campaigns starts with how you prompt. Learn the practices that produce the best results: the CO-STAR framework for structuring your prompts, what to include and what to avoid, and how to write marketing objectives that give the AI the context it needs to generate relevant, on-target content.
 
@@ -160,3 +159,32 @@ Use this formula to help you write effective objectives: **Action + Product/Serv
 &#10005; "Get people to sign up for workshop" (lacks specificity about audience and benefit)
 
 &#10005; "Promote event" (no clear action, value, or urgency)
+
+## Scenario-Based prompt examples
+
+<table style="table-layout: fixed; border-collapse: collapse; border: 0;">
+<thead>
+<tr style="border: 0;background-color: #FFFFFF;">
+<th>Industry</th>
+<th>Example Prompt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>B2B Technology</strong></td>
+<td>"Generate a campaign to demonstrate ROI and technical specifications while addressing security concerns for IT decision-makers evaluating our cloud infrastructure solution, emphasizing 99.9% uptime SLA, SOC 2 compliance, and 40% cost savings."</td>
+</tr>
+<tr>
+<td><strong>E-commerce Retail</strong></td>
+<td>"Generate a campaign to create urgency around limited-stock holiday items while highlighting free shipping and easy returns for last-minute shoppers, emphasizing limited quantities (less than 50 remaining), and 24-hour shipping cutoff."</td>
+</tr>
+<tr>
+<td><strong>Education & Training</strong></td>
+<td>"Generate a campaign that emphasizes career advancement outcomes and industry certifications while showcasing instructor expertise, highlighting 92% job placement rate, and project-based curriculum."</td>
+</tr>
+<tr>
+<td><strong>Consulting</strong></td>
+<td>"Generate a campaign to nurture enterprise prospects by showcasing three customer success stories with detailed ROI metrics (IBM: 45% cost reduction, Accenture: 200% lead increase, Microsoft: 60% time savings), targeting IT directors at companies with 1000+ employees."</td>
+</tr>
+</tbody>
+</table>
