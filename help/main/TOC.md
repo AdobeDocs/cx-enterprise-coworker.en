@@ -10,7 +10,7 @@ user-guide-description: Explore Adobe CX Enterprise Coworker
 + Campaigns {#campaigns}
   + [Overview](/help/campaigns/overview.md)
   + {hide-from-toc} [Connectors](/help/campaigns/connectors.md)
-  + {hide-from-toc} [Best practices](/help/campaigns/best-practices.md)
+  + [Prompting best practices](/help/campaigns/prompting-best-practices.md)
   + [Create an email campaign](/help/campaigns/create-an-email-campaign.md)
   + [Use cases](/help/campaigns/use-cases.md)
   + [Release notes](/help/campaigns/release-notes.md)

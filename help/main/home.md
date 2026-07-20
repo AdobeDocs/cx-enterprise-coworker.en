@@ -13,6 +13,7 @@ Coworker Campaigns is a templatized feature for small agile teams to stand up an
 * [Overview](/help/campaigns/overview.md)
 * [Create an email campaign](/help/campaigns/create-an-email-campaign.md)
 * [Use cases](/help/campaigns/use-cases.md)
+* [Prompting best practices](/help/campaigns/prompting-best-practices.md)
 
 ## Chat
 
