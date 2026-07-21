@@ -152,4 +152,4 @@ Best for: Any audience that has gone quiet.
 
 ## Ready to build?
 
-Pick a use case above, visit _Create an email campaign_ for the full step-by-step, and try it out.
+Pick a use case above, visit [Create an email campaign](/help/campaigns/create-an-email-campaign.md) for the full step-by-step, and try it out.
