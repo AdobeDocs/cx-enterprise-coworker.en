@@ -2,6 +2,7 @@
 user-guide-title: Adobe CX Enterprise Coworker
 breadcrumb-title: Adobe CX Enterprise Coworker
 user-guide-description: Explore Adobe CX Enterprise Coworker
+dummy: true
 ---
 
 # Adobe CX Enterprise Coworker Guide {#content}
