@@ -19,3 +19,4 @@ user-guide-description: Explore Adobe CX Enterprise Coworker
   + [UI guide](/help/chat/ui-guide.md)
   + [Use cases](/help/chat/use-cases.md)
   + [Analyze CJA data](/help/chat/analytics-chat.md)
+
