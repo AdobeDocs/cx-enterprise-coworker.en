@@ -6,6 +6,72 @@ title: Adobe CX Enterprise Coworker Campaigns release notes
 
 Adobe CX Enterprise Coworker Campaigns releases operate on a continuous delivery model which allows for a more scalable, phased approach to feature deployment.
 
+## July 2026 {#july-2026}
+
+**Release date: July 23, 2026**
+
+* Schedule campaigns to send right away, once at a chosen time, or on a recurring basis
+* Manage unsubscribe lists from Contact Lists and set unsubscribe parameters in campaign email settings
+* Build and manage forms with a new forms inventory and editor
+* Connector setup shows clearer guidance when credentials fail, including when updating an existing connection
+* Marketo connections now support Experience Cloud URLs
+* Domains & Senders wizard catches more DNS record issues before your domain goes live
+* Add connectors directly from the campaign input's add menu
+* Inventory pages show friendlier illustrated empty states when there's nothing to show yet
+* Campaign insights show which data source powers each metric
+* Brand editors are now built into onboarding for a smoother first-time setup
+* Preview a sample audience before you commit to your campaign
+* Coworker Campaigns now lives inside the unified Experience Cloud navigation shell
+* Removed the floating feedback tip bar for a cleaner campaign board
+* Various performance and reliability improvements throughout
+
+**Release date: July 14, 2026**
+
+* Domains & Senders rollout, live workflow progress, and real campaign insights
+* Domains & Senders setup is now fully available, with your sender choice saved automatically
+* Choose or update your campaign's email sender right from campaign settings
+* The Senders tab stays browsable even before a domain is verified
+* Email drafts added mid-conversation now reliably appear on the campaign board
+* Campaign workflow steps show live progress as they run
+* The Insights page now shows real campaign performance data instead of sample data
+* Help and feedback are combined into one streamlined popover
+* Starting a new conversation no longer shows leftover messages from the last one
+* Multi-turn conversations no longer show outdated prompts in the response drawer
+* Numbered lists in chat messages keep their correct order
+* HubSpot connector setup now asks for a service key, matching HubSpot's own terminology
+* The trial admin table shows a user count and no longer clips the last row
+* Various performance and reliability improvements throughout
+
+**Release date: July 9, 2026**
+
+* A maintenance banner and dialog now warn you ahead of scheduled downtime
+* Domains & Senders has a guided setup wizard for verifying domains and adding senders
+* Draft campaigns now prompt you to finish email and channel setup before you send
+* Domain and sender validation catches more issues, including DNS record edge cases
+* The profile menu has moved to the sidebar for quicker access
+* Source PDF documents now show as a pill on brand kit details
+* Various performance and reliability improvements throughout
+
+**Release date: June 26, 2026**
+
+* A new Insights dashboard shows campaign performance KPIs: sends, opens, clicks, bounces, and more
+* Campaigns show a live status badge on the board so you can see active sends at a glance
+* Contextual tips appear in the campaign board to guide you through next steps
+* Audience cards show upload progress step by step with inline alerts for any issues
+* Campaign templates use simpler prompts and alert you when required placeholder fields are missing
+* Brand kit editing now only requires a brand name, with website and overview fields optional
+* Onboarding layout, audience card design, and variation rationale display are more polished
+* Various performance and reliability improvements throughout
+
+**Release date: June 24, 2026**
+
+* Launching a campaign now triggers a confetti celebration
+* Campaigns show a status badge and the board locks to read-only once launched
+* Brand overview fits your screen with empty-state prompts and better logo display
+* Validation shows a clear dialog even when an unexpected error type is returned
+* Campaign overview shows task status correctly again alongside the plan view
+* Generated email content uses your campaign goal for more relevant results
+
 ## June 2026 {#june-2026}
 
 **Release date: June 23, 2026**
