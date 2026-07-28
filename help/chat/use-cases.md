@@ -6,10 +6,10 @@ title: Use Cases
 
 Below are use cases and sample prompts that practitioners are using in Adobe CX Enterprise Coworker Chat, organized by work area. Each prompt is built to be copied, adapted with your own data and context, and refined through conversation.
 
-## Data Insights
+## Data insights
 
 | Use Case | Description | Skill(s) | Application | Sample Prompts |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | Pull CJA reports & metrics | Query CJA in real time to pull metrics, dimensions, segments, and data views | `cja` | Customer Journey Analytics (CJA) | "Show me page views for the last 30 days" · "List top segments in the master data view" |
 | Comparative analysis | Compare metrics across channels, time periods, or segments side by side | `cja` | Customer Journey Analytics (CJA) | "Compare revenue by channel month over month" · "How does mobile vs desktop conversion look this quarter?" |
 | Funnel analysis | Walk through multi-step conversion funnels with drop-off at each stage | `cja` | Customer Journey Analytics (CJA) | "Walk me through the checkout funnel" · "Show conversion funnel from PDP to purchase" |
@@ -23,7 +23,7 @@ Below are use cases and sample prompts that practitioners are using in Adobe CX 
 ## Audiences
 
 | Use Case | Description | Skill(s) | Application | Sample Prompts |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | Create audiences from natural language | Orchestrate step-by-step audience creation with user approval at each phase | `audience-creation-flow` | Real-Time CDP (RTCDP) | "Create an audience of users who purchased in the last 30 days" · "Build a segment for high-value loyalty members in California" |
 | Build PQL definitions | Assemble audience definitions from XDM properties, behavioral events, or existing audiences; support aggregation and time windows | `segment-definition-assembly` | Real-Time CDP (RTCDP) | "Create a PQL for people who viewed 3+ products but didn't purchase" · "Add a 7-day time window to my event condition" |
 | Search & find audiences | Find audiences by ID, name, semantic search; detect duplicates and analyze overlap | `audience-search` | Real-Time CDP (RTCDP) | "Find all loyalty audiences" · "Is there a duplicate of my 'Holiday Shoppers' segment?" |
@@ -35,14 +35,14 @@ Below are use cases and sample prompts that practitioners are using in Adobe CX 
 ## Journeys
 
 | Use Case | Description | Skill(s) | Application | Sample Prompts |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | Create journeys from natural language | Orchestrate journey creation in AJO from a text prompt or an uploaded image/flowchart | `journey-create` | Adobe Journey Optimizer (AJO) | "Create a welcome journey that sends an email after signup, waits 3 days, then sends a follow-up" · "Build a journey from this uploaded flowchart image" |
 | Analyze journey conflicts | Detect audience overlap, schedule collisions, and deduplication issues between active journeys | `journey-analyze-conflict` | Adobe Journey Optimizer (AJO) | "Does my cart abandonment journey conflict with any other journeys?" · "Check for audience overlap between my active journeys" |
 
-## Foundational Elements
+## Foundational elements
 
 | Use Case | Description | Skill(s) | Application | Sample Prompts |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | Product knowledge & documentation | Answer how-to, conceptual, troubleshooting, and best-practice questions from official Adobe docs | `product-knowledge` | All Eligible Applications | "How do I set up a streaming destination?" · "What's the difference between batch and streaming segmentation?" |
 | Query AEP/AJO entities | Serve as the primary entry point for questions about your platform entities; route to KG, field discovery, or APIs as needed | `operational-insights` | All Eligible Applications | "How many datasets do I have?" · "Show me all active journeys" · "List my destinations" |
 | Knowledge Graph queries | Aggregate counts, cross-entity joins, relationship lookups, and metadata exploration via single SQL queries | `knowledge-graph` | All Eligible Applications | "Which audiences use this dataset?" · "Show relationships between schemas and datasets" |
@@ -52,3 +52,9 @@ Below are use cases and sample prompts that practitioners are using in Adobe CX 
 | Distill org context | Extract organization-wide knowledge from a document into the shared org-context wiki | `distill-org-context` | All Eligible Applications | "Distill this doc into the org wiki" · "Add this file to the org context" |
 | Distill user context | Extract personal working context from a document into your user-context wiki | `distill-user-context` | All Eligible Applications | "Add this file to my user context" · "Extract my working context from this doc" |
 | Manage custom skills | Save, modify, or delete user-owned reusable skills that persist across sessions | `manage-skill` | All Eligible Applications | "Save that workflow as a skill" · "Delete my weekly report skill" · "Turn this into a reusable skill" |
+
+## Sandbox tooling
+
+| Use Case | Description | Skill(s) | Application | Sample Prompts |
+| --- | --- | --- | --- | --- |
+| Move objects metadata across sandboxes | Seamlessly migrate schemas, audiences, and other object configurations across sandboxes, with dependencies auto-resolved | `sandbox-tooling-workflow` | Adobe Experience Platform (AEP) | "Move schema Luma Loyalty Members Platinum from current sandbox to prod sandbox" · "Promote the US Gold Loyalty Members audience to stage" |
