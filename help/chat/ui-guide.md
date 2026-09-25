@@ -1,18 +1,47 @@
 ---
 description: A reference guide to the Coworker Chat interface, covering navigation, the input box, responses, chat history, and configuring Skills, MCP servers, and Memory.
-title: UI Guide
+title: Coworker Chat UI Guide
+jira: KT-22106
+product_v2:
+  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
+    internal-label: CX Enterprise Coworker
+feature_v2:
+  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
+    internal-label: CX Enterprise Coworker
 ---
 # UI guide {#ui-guide}
 
 Get oriented with the Coworker Chat interface. This guide covers everything from accessing the app and navigating the workspace to getting the most out of conversations, managing your history, and tailoring your setup.
 
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+
 ## Access Coworker Chat
+
+When your organization gains access to Coworker, you can use its capabilities through either the immersive experience or an in-product experience.
+
+>[!NOTE]
+>
+>The in-product experience is accessible via the Coworker icon ![Coworker icon](./assets/icon-coworker.png) at the top-right. The immersive experience details are [outlined below](#immersive).
+
+The following table captures when these experiences will be available for each CX Enterprise application.
+
+| CX Enterprise Application | Immersive Experience | In-Product Experience |
+|---|---|---|
+| RTCDP | Available Now | Coming Soon |
+| AJO | Available Now | Coming Soon |
+| CJA | Available Now | Coming Soon |
+| Workfront | Available Now | Coming Soon:<br><br>* Early September 2026 in Preview Instance for select eligible Workfront System Admins<br><br>* Mid September 2026 in Production Instance for eligible fast release Workfront customers<br><br>* Mid October 2026 in Production Instance for eligible quarterly release Workfront customers |
+| Target | Available Now | Available Now |
+| AEM | Available Now | Coming Soon |
+| Marketo Engage | Available Now | Coming Soon |
+
+### Immersive Experience {#immersive}
 
 Access Coworker Chat by navigating to [https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker) and signing in with your Adobe credentials.
 
 You can also access it by selecting **Coworker** from the application selector on the top header in CX Enterprise.
 
-![Accessing Coworker from the CX Enterprise application selector](assets/ui-guide-1.png)
+![Accessing Coworker from the CX Enterprise application selector](./assets/ui-guide-1.png)
 
 ## Choose your organization and sandbox
 
@@ -29,15 +58,15 @@ Select your name to open the account menu, where you can switch context and chan
 | CX Applications | Jump to another CX Enterprise application connected to your account. |
 | Sign Out | Sign out of your Adobe account. |
 
-![The account menu with the organization picker open](assets/ui-guide-2.png)
+![The account menu with the organization picker open](./assets/ui-guide-2.png)
 
-![The account menu with the sandbox picker open](assets/ui-guide-3.png)
+![The account menu with the sandbox picker open](./assets/ui-guide-3.png)
 
 ## Navigate the interface
 
 The CX Coworker interface has two main areas: the navigation rail on the left, and the conversation canvas that fills the rest of the window.
 
-![The Home screen](assets/ui-guide-4.png)
+![The Home screen](./assets/ui-guide-4.png)
 
 ## The navigation rail
 
@@ -62,7 +91,7 @@ Under Suggested for you, CX Coworker lists example tasks. Select any suggestion 
 
 ### Entity mentions
 
-Suggested prompts and your own messages can reference specific objects in your sandbox using entity mentions such as +[schema], +[journey], and +[dataset]. An entity mention tells Coworker Chat exactly which object you mean, so it can act on the right schema, journey, dataset, audience, or offer. You can add your own mentions by typing **+**.
+Suggested prompts and your own messages can reference specific objects in your sandbox using entity mentions such as +[schema], +[journey], and +[dataset]. An entity mention tells Coworker Chat exactly which object you mean, so you can add your own mentions by typing **+**.
 
 ## The chat input box
 
@@ -83,13 +112,13 @@ Select + to attach context to your message:
 - Attach file: upload a file Coworker Chat can read and reference in its response.
 - Add data or object: reference an object from your sandbox, such as a dataset or schema, so Coworker Chat works against your live data.
 
-![The attach menu](assets/ui-guide-5.png)
+![The attach menu](./assets/ui-guide-5.png)
 
 ### Plan mode
 
 Turn on Plan mode when a task is complex or changes data, and you want to review the approach first. Coworker Chat responds with a plan and waits for your approval before carrying it out. When Plan mode is off, Coworker Chat proceeds directly to the work.
 
-![Plan mode enabled in the input toolbar](assets/ui-guide-6.png)
+![Plan mode enabled in the input toolbar](./assets/ui-guide-6.png)
 
 ### Transcript view
 
@@ -101,13 +130,13 @@ The transcript view sets how much of Coworker Chat's reasoning and tool activity
 | Focus | A simplified view that hides most intermediate steps so you see mainly the answer. |
 | Verbose | The full detail: every thinking step, skill load, file read, and query. |
 
-![Choosing a transcript view](assets/ui-guide-7.png)
+![Choosing a transcript view](./assets/ui-guide-7.png)
 
 ## Work with responses
 
 When you send a message, Coworker Chat works through the task in the open, then returns its answer. A response can include reasoning, a record of the tools it used, and one or more artifacts.
 
-![A response in progress](assets/ui-guide-8.png)
+![A response in progress](./assets/ui-guide-8.png)
 
 ### Thinking and activity
 
@@ -129,7 +158,7 @@ Results Coworker Chat produces (such as a table of audiences) appear as artifact
 
 Below its artifacts, Coworker Chat summarizes what the results mean, highlighting notable findings and suggesting follow-up actions you can take next.
 
-![A completed response with artifact table and summary](assets/ui-guide-9.png)
+![A completed response with artifact table and summary](./assets/ui-guide-9.png)
 
 ### Give feedback and copy responses
 
@@ -138,7 +167,7 @@ Each response has controls to rate and reuse it:
 - Thumbs up / Thumbs down: rate the response to help improve future answers.
 - Copy: copy the response using Copy as Markdown (keeps formatting) or Copy as Plain Text.
 
-![The copy menu](assets/ui-guide-10.png)
+![The copy menu](./assets/ui-guide-10.png)
 
 ## Manage your chats
 
@@ -152,7 +181,7 @@ Select Chats in the navigation rail to open your full history. Conversations are
 | New chat | Start a new conversation. |
 | Row menu (…) | On any conversation, star (pin), rename, archive, or delete it. |
 
-![The Chats page](assets/ui-guide-11.png)
+![The Chats page](./assets/ui-guide-11.png)
 
 ## Configurations
 
@@ -166,13 +195,13 @@ Skills are specialized capabilities Coworker Chat invokes automatically when the
 - Search: find a skill by name.
 - Change view: switch between grid and list layouts using the view toggle.
 
-![The Skills tab](assets/ui-guide-12.png)
+![The Skills tab](./assets/ui-guide-12.png)
 
 Select a skill to see its details: the plugin it belongs to, a description of when Coworker Chat uses it, and any files it includes. Select View SKILL.md to read the skill's full definition, or Remove Source to uninstall it.
 
-![A skill detail view showing supporting files](assets/ui-guide-13.png)
+![A skill detail view showing supporting files](./assets/ui-guide-13.png)
 
-![The SKILL.md viewer](assets/ui-guide-14.png)
+![The SKILL.md viewer](./assets/ui-guide-14.png)
 
 ### MCP servers
 
@@ -182,7 +211,7 @@ MCP (Model Context Protocol) servers connect Coworker Chat to external tools and
 
 Each card shows the server name, its endpoint, and any tags that describe what it provides.
 
-![The MCP servers tab](assets/ui-guide-15.png)
+![The MCP servers tab](./assets/ui-guide-15.png)
 
 ### Marketplaces
 
@@ -193,7 +222,7 @@ Marketplaces are registries of plugins you can browse and install from. The Mark
 
 Each marketplace shows its source and a Ready status once it is available to install from.
 
-![The Marketplaces tab](assets/ui-guide-16.png)
+![The Marketplaces tab](./assets/ui-guide-16.png)
 
 ### Plugins
 
@@ -203,7 +232,7 @@ Plugins extend Coworker Chat with bundled skills and MCP servers that are instal
 - Uninstall: remove an installed plugin and everything it bundles.
 - Filter by marketplace: see which plugins came from which registry.
 
-![The Plugins tab](assets/ui-guide-17.png)
+![The Plugins tab](./assets/ui-guide-17.png)
 
 ### Memory
 
@@ -213,4 +242,4 @@ Memory lets Coworker Chat remember your preferences across conversations so its 
 - Stored preferences: the preferences Coworker Chat has learned and saved. Each entry can be edited, deleted, or inspected, and entries can be filtered by category.
 - Saved memories history: a timeline of changes to your stored memories.
 
-![The Memory tab](assets/ui-guide-18.png)
+![The Memory tab](./assets/ui-guide-18.png)
