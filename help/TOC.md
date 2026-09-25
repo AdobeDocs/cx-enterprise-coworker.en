@@ -35,9 +35,9 @@ hide: true
       - Optimization {#optimization}
         - [Launch Target activities](./chat/use-cases/optimization/target.md)
       - Sandbox tooling {#sandbox-tooling}
-        - Sandbox tooling agentic skills
+        - [Sandbox tooling agentic skills](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
       - Alerts {#alerts}
-        - Customer alert skills
+        - [Customer alert skills](./chat/use-cases/customer-alerts/customer-alerts.md)
       - Content Advisor {#content-advisor}
         - [Generate marketing assets](./chat/use-cases/content-advisor/generate-assets.md)
         - [Brand compliance check](./chat/use-cases/content-advisor/brand-compliance.md)
