@@ -25,7 +25,7 @@ Before you begin, ensure that you have:
 - Permission to view alerts relevant to your organization.
 - The Adobe CXO plugin installed in CX Coworker.
 
-For instructions on installing plugins, see the https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/chat/ui-guide.
+For instructions on installing plugins, see the [Coworker UI guide](../../ui-guide.md).
 
 ## Use Customer Alert Skills {#use-customer-alert-skills}
 
