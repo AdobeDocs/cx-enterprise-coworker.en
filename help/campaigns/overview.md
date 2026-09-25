@@ -1,10 +1,16 @@
 ---
 description: Learn about Adobe CX Enterprise Coworker Campaigns, an AI-native marketing application that turns a single prompt into a review-ready campaign.
 title: Adobe CX Enterprise Coworker Overview
+product_v2:
+  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
+    internal-label: CX Enterprise Coworker
+feature_v2:
+  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
+    internal-label: CX Enterprise Coworker
 ---
 # Adobe CX Enterprise Coworker Campaigns overview {#overview}
 
-Adobe CX Enterprise Coworker Campaigns is an AI-native marketing application that takes you from a single prompt to a complete review-ready campaign.
+Coworker Campaigns is an AI-native marketing application that takes you from a single prompt to a complete review-ready campaign.
 
 At this time, all interactions with the AI will direct you towards [campaign generation](/help/campaigns/create-an-email-campaign.md). More functionality is coming soon.
 
@@ -12,7 +18,7 @@ At this time, all interactions with the AI will direct you towards [campaign gen
 
 >[!NOTE]
 >
->Coworker Campaigns is available via free trial through October 1, 2026. During the trial, all assets and activity is specific to the user.
+>Coworker Campaigns is available via free trial through December 31, 2026. During the trial, all assets and activity is specific to the user.
 
 1. Go to coworker-campaigns.experience.adobe.com.
 
@@ -28,7 +34,7 @@ At this time, all interactions with the AI will direct you towards [campaign gen
 
 1. (Optional) Upload an HTML email template under **Email templates** for Coworker Campaigns to apply your design when generating content.
 
-   ![Welcome screen for Coworker Campaigns trial](assets/overview-1.png){width="800" zoomable="yes"}
+   ![Welcome screen for Coworker Campaigns trial](./assets/overview-1.png){width="800" zoomable="yes"}
 
 You are ready to generate your first campaign.
 
@@ -36,7 +42,7 @@ You are ready to generate your first campaign.
 
 The Coworker Campaigns interface is organized around a left-hand navigation.
 
-   ![Home screen](assets/overview-2.gif)
+   ![Home screen](./assets/overview-2.gif)
 
 | Left Nav Menu | Purpose |
 |---|---|
@@ -94,7 +100,7 @@ A few things early users have found that make a real difference:
 
 Coworker Campaigns is a product in active development. Here is what to know going in:
 
-- **Trial window**: Now through October 1, 2026.
+- **Trial window**: Now through December 31, 2026.
 - **Acceptance required**: You will need to review and accept the trial terms before accessing the product.
 - **Region**: The free trial is only available to users in North America at this time.
 - **Audiences**: Audiences are uploaded via CSV. All audiences are specific to their respective campaigns (they are not stored anywhere else in your environment at this time).
