@@ -1,6 +1,12 @@
 ---
 description: Browse real prompt patterns for Adobe CX Enterprise Coworker Campaigns, organized by use case across acquisition, engagement, events, conversion, and retention campaigns.
-title: Use cases
+title: Coworker Campaigns Use Cases
+product_v2:
+  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
+    internal-label: CX Enterprise Coworker
+feature_v2:
+  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
+    internal-label: CX Enterprise Coworker
 ---
 # Use cases {#use-cases}
 
@@ -36,7 +42,7 @@ Best for: First-time buyers, new newsletter subscribers, post-signup follow-up.
 
 Best for: First-time ticket buyers, new season ticket holders, post-purchase fan activation.
 
-`"Create a 4-email post-purchase journey to onboard first-time fans and drive repeat attendance."`
+`"Create a 4-email post-purchase journey for new fans that introduces the season, loyalty benefits, and next events."`
 
 ## Engagement and nurture
 
@@ -64,7 +70,7 @@ Best for: Product education, feature adoption, reducing time-to-value.
 
 Best for: Retail seasonal pushes, collection drops, refresh moments.
 
-`"Build a 2-touch email series, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."`
+`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what’s new and relevant for buyers in my CSV list. Personalize content to each person’s first name, product interest category, and region."`
 
 ## Events and moment-driven
 
@@ -96,9 +102,9 @@ Best for: Single-game ticket sales, themed nights, special events.
 
 ### Know before you go + tune-in, B2C (Sports and entertainment)
 
-Best for: Game-day or event-day fan readiness.
+Best for: Game-day and event-day fan readiness.
 
-`"Create a 3-touch moment-driven campaign to maximize attendance and fan readiness around game day."`
+`"Create a 3-touch campaign that prepares fans for game day and encourages attendance."`
 
 ## Conversion and upsell
 
@@ -148,8 +154,8 @@ Best for: Inactive subscribers, lapsed season ticket holders, single-game conver
 
 Best for: Any audience that has gone quiet.
 
-`"Create a win-back campaign targeting inactive guests who haven't engaged recently. Highlight what's new and offer special incentives to re-engage."`
+`"Create a win-back campaign targeting inactive customers who haven't engaged recently. Highlight what's new and offer special incentives to re-engage."`
 
 ## Ready to build?
 
-Pick a use case above, visit [Create an email campaign](/help/campaigns/create-an-email-campaign.md) for the full step-by-step, and try it out.
+Pick a use case above, visit [Create an email campaign](./) for the full step-by-step, and try it out.

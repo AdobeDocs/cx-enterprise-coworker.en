@@ -1,3 +1,3 @@
-# ARCHIVED
+# CX Enterprise Coworker documentation
 
-Content moved to <https://github.com/Adobe-Enterprise-Docs/cx-enterprise-ai.en>
+Source for the Adobe CX Enterprise Coworker documentation set.
