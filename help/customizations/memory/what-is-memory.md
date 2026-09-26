@@ -7,6 +7,7 @@ doc-type: Feature Video
 duration: 201
 last-substantial-update: 2026-09-22
 jira: KT-22451
+dummy: true
 ---
 
 # [!DNL Coworker] Memory: personalizing AI for more productive workflows

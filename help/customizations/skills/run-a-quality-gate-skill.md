@@ -7,6 +7,7 @@ doc-type: Feature Video
 duration: 101
 last-substantial-update: 2026-09-08
 jira: KT-22379
+dummy: true
 ---
 
 # Build and run a quality gate skill using custom AI skills

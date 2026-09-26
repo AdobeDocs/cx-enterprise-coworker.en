@@ -13,6 +13,7 @@ product_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
+dummy: true
 ---
 # Author AEM Sites pages with Coworker
 
