@@ -7,7 +7,6 @@ doc-type: Feature Video
 duration: 210
 last-substantial-update: 2026-09-22
 jira: KT-22449
-dummy: true
 ---
 
 # Coworker Plugins: what they are, how they work, and how to install them

@@ -53,7 +53,6 @@ topic_v2:
     internal-label: Behavioral data
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-dummy: true
 ---
 # Get started with Coworker Chat in Playground
 

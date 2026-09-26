@@ -8,7 +8,6 @@ doc-type: Feature Video
 duration: 330
 last-substantial-update: 2026-09-16
 jira: KT-22622
-dummy: true
 ---
 # Validate Customer Journey Analytics data with the data validation skill in [!DNL Coworker]
 
