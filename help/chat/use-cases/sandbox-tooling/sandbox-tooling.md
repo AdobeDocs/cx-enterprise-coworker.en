@@ -1,6 +1,7 @@
 ---
 title: Sandbox Tooling Agentic Skills
 description: Learn how to use Sandbox Tooling Agentic Skills to replicate object metadata across sandbox environments.
+dummy: true
 ---
 
 # Sandbox tooling agentic skills

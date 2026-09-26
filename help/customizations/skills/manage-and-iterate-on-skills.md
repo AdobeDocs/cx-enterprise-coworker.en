@@ -7,6 +7,7 @@ doc-type: Feature Video
 duration: 258
 last-substantial-update: 2026-09-16
 jira: KT-22445
+dummy: true
 ---
 
 # Manage and iterate on skills in [!DNL Coworker]

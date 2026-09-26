@@ -13,6 +13,7 @@ level: Beginner
 doc-type: Tutorial
 duration: 262
 jira: UGP-22688
+dummy: true
 ---
 # Plan a digital campaign launch with [!DNL Coworker]
 

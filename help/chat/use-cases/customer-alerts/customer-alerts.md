@@ -1,6 +1,7 @@
 ---
 title: Customer Alert Skills
 description: Learn how to use Customer Alert Skills in CX Coworker to review, analyze, and prioritize alert activity through natural-language conversations.
+dummy: true
 ---
 
 # Customer alert skills
